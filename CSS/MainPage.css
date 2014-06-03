@@ -32,6 +32,7 @@ a:hover {
 }
 
 #title {
+	margin: 0;
 	position: relative;
 	font-family: "Baskerville";
 	font-size: 600%;
