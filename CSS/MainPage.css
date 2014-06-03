@@ -10,9 +10,11 @@ h1 {
   position: relative;
   left: 2%;
   top: 5%;
+  width: 25%;
   font-size: 500%;
   border: 4px solid #00A60B;
   padding: 15px 15px;
   border-radius: 25px;
   font-family: 'Baskerville';
+  text-align: center;
 }
