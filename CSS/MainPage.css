@@ -35,10 +35,10 @@ a:hover {
 	position: relative;
 	font-family: "Baskerville";
 	font-size: 600%;
-//	left: 20%;
-//	width: 60%;
+	left: 30%;
+	width: 400%;
 	padding-bottom:20px;
-//	right: 20%;
+	right: 30%;
 	top: 10px;
 	text-align: center;
 	background: url(../Pictures/black-underline-swirl-md.png);
