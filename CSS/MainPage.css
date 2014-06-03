@@ -18,11 +18,12 @@ body {
 	top: 0px;
 }
 
-h1 {
+#title {
 	position: relative;
 	font-family: "Baskerville";
 	font-size: 600%;
 	left: 20%;
 	width: 60%;
+	top: 10px;
 	text-align: center;
 }
