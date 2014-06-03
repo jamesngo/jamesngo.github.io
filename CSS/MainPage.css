@@ -6,21 +6,19 @@
   }
   
 html {
-	font-family: "Baskerville";
-	font-weight: 400;
-	color: #88888C;
   width: 100%;
   height: 100%;
 }
 
 body {
-	margin: 0;
+	margin: 10,30,30,30;
 	padding: 0;
 	width: 100%;
 	height: 100%;
 }
 
 h1 {
-  font-size: 1000;
+	font-family: "Baskerville";
+  font-size: 1000%;
   text-align: left;
 }
