@@ -21,6 +21,10 @@ body {
 	height: 100%;
 }
 
+a {
+	transition: none;
+}
+
 #title {
 	position: relative;
 	font-family: "Baskerville";
