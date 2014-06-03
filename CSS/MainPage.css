@@ -15,7 +15,8 @@ body {
 	position: relative;
 	background-color: #D2B763;
 	width: 80%;
-	left:10;
+	left:10%;
+	top: 0px;
 	height: 100%;
 }
 
