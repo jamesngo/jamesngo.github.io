@@ -5,16 +5,22 @@
   src: url(../Fonts/Baskerville-Old-Face) format("truetype");
   }
   
+html {
+	font-family: "Baskerville";
+	font-weight: 400;
+	color: #88888C;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
 
 h1 {
-  position: static;
-  left: 2%;
-  top: 5%;
-  width: 25%;
-  font-size: 500%;
-  border: 4px solid #00A60B;
-  padding: 15px 15px;
-  border-radius: 25px;
-  font-family: 'Baskerville';
-  text-align: center;
+  font-size: 1000;
+  text-align: left;
 }
