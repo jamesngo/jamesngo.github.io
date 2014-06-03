@@ -27,6 +27,10 @@ a {
 	transition: none;
 }
 
+a:hover {
+	
+}
+
 #title {
 	position: relative;
 	font-family: "Baskerville";
