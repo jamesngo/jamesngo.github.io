@@ -17,7 +17,7 @@ body {
 }
 
 #title {
-	position: relative;
+	position: static;
 	font-family: "Baskerville";
 	font-size: 600%;
 	left: 20%;
