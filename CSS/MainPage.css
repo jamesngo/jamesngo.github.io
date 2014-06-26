@@ -18,7 +18,7 @@ body {
 	width: 70%;
 	left:15%;
 	height: 100%;
-	margin: 0px;
+	margin: 0px; !important 
 }
 
 a {
