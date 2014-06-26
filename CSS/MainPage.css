@@ -34,12 +34,12 @@ a:hover {
 #title {
 	position: relative;
 	font-family: "Baskerville";
-	font-size: 75em;
+	font-size: 2em;
 	left: 30%;
 	width: 40%;
 	padding-bottom:20px;
 	right: 30%;
-	top: 10px;
+	top: 0px;
 	text-align: center;
 	border-bottom-right-radius: 25px;
 	border-bottom-left-radius: 25px;
