@@ -2,12 +2,12 @@
   
 @font-face {
 	font-family: 'AllerDisplay';
-	src: url(../Fonts/AllerDisplay) format("truetype");
+	src: url(../Fonts/AllerDisplay.tff) format("truetype");
 }
 
 @font-face {
 	font-family: 'Baskerville';
-	src: url(../Fonts/Baskerville-Old-Face) format("truetype");
+	src: url(../Fonts/Baskerville-Old-Face.tff) format("truetype");
 }
   
 html {
@@ -48,7 +48,7 @@ a:hover {
 
 #title {
 	position: relative;
-/*	font-family: "AllerDisplay";*/
+	font-family: "AllerDisplay";
 	left: 30%;
 	width: 40%;
 	padding-bottom:10px;
