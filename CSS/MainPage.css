@@ -6,9 +6,9 @@
 }
 
 @font-face {
-  font-family: 'Baskerville';
-  src: url(../Fonts/Baskerville-Old-Face) format("truetype");
-  }
+	font-family: 'Baskerville';
+	src: url(../Fonts/Baskerville-Old-Face) format("truetype");
+}
   
 html {
 	width: 100%;
