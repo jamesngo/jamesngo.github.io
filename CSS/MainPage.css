@@ -1,8 +1,8 @@
 @charset "UTF-8";
   
 @font-face {
-	font-family: 'Aller'	
-	src: url(../Fonts/AllerDisplay.ttf) format("truetype");
+	font-family: 'AllerDisplay'	
+	src: url(../Fonts/AllerDisplay) format("truetype");
 }
   
 html {
@@ -43,7 +43,7 @@ a:hover {
 
 #title {
 	position: relative;
-	font-family: "Aller";
+	font-family: "AllerDisplay";
 	left: 30%;
 	width: 40%;
 	padding-bottom:10px;
