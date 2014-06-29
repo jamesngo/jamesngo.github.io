@@ -2,7 +2,7 @@
   
 @font-face {
 	font-family: 'AllerDisplay';
-	src: url(../Fonts/AllerDisplay.tff) format("truetype");
+	src: url(../Fonts/AllerDisplay.tff) format("opentype");
 }
 
 @font-face {
@@ -61,5 +61,5 @@ a:hover {
 	border-bottom-left-radius: 25px;
 	background: #292525;
 	color: white;
-	font-family: "AllerDisplay"; !important
+	font-family: "AllerDisplay"; 
 }
