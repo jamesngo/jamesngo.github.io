@@ -1,9 +1,14 @@
 @charset "UTF-8";
   
 @font-face {
-	font-family: 'AllerDisplay'	
+	font-family: 'AllerDisplay';
 	src: url(../Fonts/AllerDisplay) format("truetype");
 }
+
+@font-face {
+  font-family: 'Baskerville';
+  src: url(../Fonts/Baskerville-Old-Face) format("truetype");
+  }
   
 html {
 	width: 100%;
