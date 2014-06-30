@@ -6,6 +6,11 @@
 }
 
 @font-face {
+	font-family: 'Aller_Lt';
+	src: url(/Fonts/Aller_Lt.ttf) format("truetype");
+}
+
+@font-face {
 	font-family: 'Baskerville';
 	src: url(/Fonts/Baskerville-Old-Face.ttf) format("truetype");
 }
@@ -34,8 +39,9 @@ h1 {
 }
 h2 {
 	font-size: 2em;
-	margin: 0; !important
+	font-family: 'Aller_Lt'; 
 	font-weight: normal;
+	margin: 0; !important
 }
 
 a {
